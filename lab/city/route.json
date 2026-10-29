@@ -1,0 +1,21 @@
+{
+  "name": "まちでおつかい",
+  "note": "Metres, world frame, the board starts at the first point facing +x. Shared by lab/route_drive.py (simulation) and lab/blender/build_city.py (picture).",
+  "points": [
+    {"x": 0.0,  "y": 0.0,  "speed": 0.7, "label": "おうちを出発"},
+    {"x": 11.0, "y": 0.0,  "speed": 0.5, "label": "かどを左へ"},
+    {"x": 12.5, "y": 1.5,  "speed": 0.7},
+    {"x": 12.5, "y": 7.0,  "speed": 0.0, "stop": 2.5, "label": "横断歩道で止まる"},
+    {"x": 12.5, "y": 13.0, "speed": 0.5, "label": "わたる"},
+    {"x": 14.0, "y": 14.5, "speed": 0.8, "label": "商店街へ"},
+    {"x": 26.0, "y": 14.5, "speed": 0.4, "label": "お店に到着"},
+    {"x": 27.5, "y": 14.5, "speed": 0.0, "stop": 3.0, "label": "とうちゃく！"}
+  ],
+  "city": {
+    "sidewalk_width": 3.0,
+    "road_width": 6.0,
+    "house": {"x": -1.5, "y": 2.5},
+    "shop": {"x": 28.5, "y": 17.0, "name": "カニ商店"},
+    "crosswalk": {"x": 12.5, "y0": 8.0, "y1": 12.0}
+  }
+}

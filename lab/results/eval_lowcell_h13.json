@@ -1,0 +1,22 @@
+{
+  "design": "lowcell_h13",
+  "checkpoint": "logs\\jumper\\jumper.segway_board\\2026-10-26_02-42-07\\model_6092.pt",
+  "episodes": 128,
+  "seconds": 12.0,
+  "boarded_ever": 1.0,
+  "on_and_riding_at_end": 1.0,
+  "median_time_to_board_s": 0.38,
+  "terminated": 0.0,
+  "board_pushed_before_on_m": 0.101,
+  "max_feet_on_deck_share": {
+    ">=1": 1.0,
+    ">=2": 1.0,
+    ">=4": 1.0,
+    ">=6": 1.0
+  },
+  "complaints_per_episode": {
+    "fled": 1.15,
+    "rocked": 1.07,
+    "slipped": 0.03
+  }
+}

@@ -1,0 +1,5 @@
+flap_h9_l22 logs/jumper/jumper.segway_board/2026-10-23_07-18-55/
+flap_h9_l30 logs/jumper/jumper.segway_board/2026-10-23_09-03-08/
+flap_h11_l40 logs/jumper/jumper.segway_board/2026-10-23_10-49-58/
+best 
+ride logs/jumper/jumper.segway/2026-10-23_11-36-53/

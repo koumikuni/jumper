@@ -1,0 +1,22 @@
+{
+  "design": "lowcell_h8",
+  "checkpoint": "logs\\jumper\\jumper.segway_board\\2026-10-25_23-06-13\\model_2597.pt",
+  "episodes": 128,
+  "seconds": 12.0,
+  "boarded_ever": 0.984,
+  "on_and_riding_at_end": 0.984,
+  "median_time_to_board_s": 0.42,
+  "terminated": 0.016,
+  "board_pushed_before_on_m": 0.11,
+  "max_feet_on_deck_share": {
+    ">=1": 1.0,
+    ">=2": 0.984,
+    ">=4": 0.984,
+    ">=6": 0.984
+  },
+  "complaints_per_episode": {
+    "fled": 2.04,
+    "rocked": 1.27,
+    "slipped": 0.05
+  }
+}

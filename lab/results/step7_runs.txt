@@ -1,0 +1,11 @@
+lowcell_h6.5 logs/jumper/jumper.segway_board/2026-10-25_22-41-20//model_1898.pt
+lowcell_h8 logs/jumper/jumper.segway_board/2026-10-25_23-06-13//model_2597.pt
+lowcell_h9 logs/jumper/jumper.segway_board/2026-10-25_23-49-03//model_3296.pt
+lowcell_h10 logs/jumper/jumper.segway_board/2026-10-26_00-32-16//model_3995.pt
+lowcell_h11 logs/jumper/jumper.segway_board/2026-10-26_01-15-26//model_4694.pt
+lowcell_h12 logs/jumper/jumper.segway_board/2026-10-26_01-58-46//model_5393.pt
+lowcell_h13 logs/jumper/jumper.segway_board/2026-10-26_02-42-07//model_6092.pt
+lowcell_h14 logs/jumper/jumper.segway_board/2026-10-26_03-25-30//model_6791.pt
+best lowcell_h14
+ride lowcell_h14 logs/jumper/jumper.segway/2026-10-26_04-08-48//model_2999.pt
+done

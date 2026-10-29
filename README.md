@@ -4,6 +4,8 @@
 
 **English** | [简体中文](README.zh.md)
 
+> **This fork — Crab Robot Challenge 2026 entry:** Jumper learns to ride a lean-steered segway board, then the board is redesigned until the crab gets on by itself (14 cm step, 99%). Tasks `jumper.segway` and `jumper.segway_board`; write-up, results and scripts in [lab/README.md](lab/README.md).
+
 **Jumper is a 22-DoF crab robot.** [View hardware →](docs/HARDWARE.md)
 
 This repo is Jumper’s AI toolkit for appearance, motion, and scene creation. Open this repo in an AI coding assistant and try the prompts below.

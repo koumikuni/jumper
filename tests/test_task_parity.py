@@ -77,6 +77,14 @@ NOT_LOCOMOTION = {
     # It builds a prop of its own into the scene as well. There is no number it
     # could agree with the four on that would mean the same thing.
     "jumper.swing",
+    # Rides a self-balancing board by leaning: it tracks a command, but the
+    # *board's* speed and yaw rather than its own, on a deck that cruises nose-up,
+    # so the tracking, upright and gait terms are all replaced. Builds its own prop
+    # like jumper.swing.
+    "jumper.segway",
+    # Climbs onto the parked board: no command, a reward ladder from approach to
+    # standing on the deck, and the board as its prop. Nothing to share with the four.
+    "jumper.segway_board",
     # Imitates a single recorded jump: one-shot, no command, no gait prior, and
     # its reward budget is reference tracking. Same reasoning as jumper.dance.
     "jumper.jump",

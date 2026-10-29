@@ -1,0 +1,15 @@
+{
+  "design": "baseline",
+  "checkpoint": "jumper\\logs\\jumper\\jumper.segway_board\\2026-10-21_22-22-29\\model_9999.pt",
+  "episodes": 128,
+  "seconds": 12.0,
+  "boarded_ever": 0.0,
+  "on_and_riding_at_end": 0.0,
+  "median_time_to_board_s": null,
+  "terminated": 0.0,
+  "complaints_per_episode": {
+    "fled": 1.48,
+    "rocked": 0.54,
+    "slipped": 0.0
+  }
+}

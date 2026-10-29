@@ -1,0 +1,21 @@
+{
+  "design": "lowfloor",
+  "checkpoint": "jumper\\logs\\jumper\\jumper.segway_board\\2026-10-22_13-07-19\\model_1499.pt",
+  "episodes": 128,
+  "seconds": 12.0,
+  "boarded_ever": 0.0,
+  "on_and_riding_at_end": 0.0,
+  "median_time_to_board_s": null,
+  "terminated": 0.039,
+  "max_feet_on_deck_share": {
+    ">=1": 0.961,
+    ">=2": 0.961,
+    ">=4": 0.0,
+    ">=6": 0.0
+  },
+  "complaints_per_episode": {
+    "fled": 2.58,
+    "rocked": 0.17,
+    "slipped": 0.02
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "design": "baseline",
+  "checkpoint": "logs\\jumper\\jumper.segway\\2026-10-21_15-58-26\\model_2999.pt",
+  "terrain": "road",
+  "episodes": 128,
+  "seconds": 20.0,
+  "fell_share": 0.109,
+  "mean_speed_error_mps": 0.132,
+  "mean_yaw_error_radps": 0.15,
+  "scrape_share_of_time": 0.0062,
+  "episodes_with_a_scrape": 0.359
+}

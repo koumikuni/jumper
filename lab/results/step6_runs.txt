@@ -1,0 +1,4 @@
+flap_h9_l40_lock logs/jumper/jumper.segway_board/2026-10-23_13-55-34/ model_2098.pt
+flap_h9_l30_lock logs/jumper/jumper.segway_board/2026-10-23_14-39-14/ model_2098.pt
+flap_h11_l40_lock logs/jumper/jumper.segway_board/2026-10-23_15-22-04/ model_2098.pt
+no flap design boarded 50%: riding test not started

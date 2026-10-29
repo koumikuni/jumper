@@ -1,0 +1,22 @@
+{
+  "design": "flap_h9_l30_lock",
+  "checkpoint": "logs\\jumper\\jumper.segway_board\\2026-10-23_14-39-14\\model_2098.pt",
+  "episodes": 128,
+  "seconds": 12.0,
+  "boarded_ever": 0.055,
+  "on_and_riding_at_end": 0.055,
+  "median_time_to_board_s": 1.46,
+  "terminated": 0.0,
+  "board_pushed_before_on_m": 0.483,
+  "max_feet_on_deck_share": {
+    ">=1": 0.148,
+    ">=2": 0.055,
+    ">=4": 0.055,
+    ">=6": 0.055
+  },
+  "complaints_per_episode": {
+    "fled": 16.15,
+    "rocked": 0.2,
+    "slipped": 0.04
+  }
+}

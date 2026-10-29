@@ -1,0 +1,21 @@
+{
+  "design": "comb_U",
+  "checkpoint": "logs\\jumper\\jumper.segway_board\\2026-10-22_17-57-50\\model_999.pt",
+  "episodes": 128,
+  "seconds": 12.0,
+  "boarded_ever": 0.0,
+  "on_and_riding_at_end": 0.0,
+  "median_time_to_board_s": null,
+  "terminated": 0.0,
+  "max_feet_on_deck_share": {
+    ">=1": 1.0,
+    ">=2": 1.0,
+    ">=4": 0.0,
+    ">=6": 0.0
+  },
+  "complaints_per_episode": {
+    "fled": 0.96,
+    "rocked": 0.0,
+    "slipped": 0.01
+  }
+}
